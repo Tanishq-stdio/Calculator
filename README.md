@@ -1,3 +1,3 @@
 # Calculator
-Calculation of numbers 
+Calculation of numbers
 Addition, Substraction, Multiplication, Division;
